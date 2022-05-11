@@ -71,6 +71,6 @@
     "typescript": "^3.8.3"
   },
   "dependencies": {
-    "multi-token-standard": "2.0.1"
+    "multi-token-standard": "2.2.2"
   }
 }
